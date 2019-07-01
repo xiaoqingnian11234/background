@@ -10,7 +10,7 @@ with the reference software of Versatile Video Coding (VVC), the proposed scheme
 
 
 Sequences
-The Proposed method vs. VTM1.1
+The Proposed method vs. VTM1.1 
 BD-rate (Y,U,V)
 BasketballDrill -38.62 -40.29 -38.68
 SYDLNoon -25.14 -41.69 -35.32
