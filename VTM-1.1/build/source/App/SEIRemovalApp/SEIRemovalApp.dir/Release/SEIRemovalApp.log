@@ -1,4 +1,0 @@
-﻿  SEIRemovalApp.cpp
-  SEIRemovalAppCfg.cpp
-  seiremovalmain.cpp
-LINK : fatal error LNK1181: 无法打开输入文件“..\..\..\..\lib\vs14\msvc-19.0\x86_64\release\CommonLib.lib”
