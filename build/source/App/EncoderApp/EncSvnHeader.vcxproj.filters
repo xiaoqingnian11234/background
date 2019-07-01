@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\VTM\VTM-1.1\build\CMakeFiles\e88922df93a7e2c7a2ae6c48b2e9fd94\svnheader.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\VTM\VTM-1.1\build\CMakeFiles\2d4520ebfd4f35e1ae8d210214b198a9\EncSvnHeader.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\VTM\VTM-1.1\source\App\EncoderApp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\VTM\VTM-1.1\build\source\App\EncoderApp\CMakeFiles\EncSvnHeader" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0B8AC538-1193-3776-B131-4926E820155A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

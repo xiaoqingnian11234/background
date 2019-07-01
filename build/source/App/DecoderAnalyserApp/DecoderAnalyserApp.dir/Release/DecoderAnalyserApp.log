@@ -1,0 +1,7 @@
+﻿  DecApp.cpp
+  DecAppCfg.cpp
+  decmain.cpp
+D:\VTM\VTM-1.1\source\Lib\CommonLib\..\CommonLib/ContextModelling.h(324): error C2220: 警告被视为错误 - 没有生成“object”文件 (编译源文件 D:\VTM\VTM-1.1\source\App\DecoderApp\DecApp.cpp)
+D:\VTM\VTM-1.1\source\Lib\CommonLib\..\CommonLib/ContextModelling.h(324): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?) (编译源文件 D:\VTM\VTM-1.1\source\App\DecoderApp\DecApp.cpp)
+D:\VTM\VTM-1.1\source\Lib\CommonLib\..\CommonLib/ContextModelling.h(324): error C2220: 警告被视为错误 - 没有生成“object”文件 (编译源文件 D:\VTM\VTM-1.1\source\App\DecoderApp\decmain.cpp)
+D:\VTM\VTM-1.1\source\Lib\CommonLib\..\CommonLib/ContextModelling.h(324): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?) (编译源文件 D:\VTM\VTM-1.1\source\App\DecoderApp\decmain.cpp)
