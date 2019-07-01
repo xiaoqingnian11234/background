@@ -1,0 +1,10 @@
+﻿  AnnexBread.cpp
+  BinDecoder.cpp
+  CABACReader.cpp
+  DecCu.cpp
+  DecLib.cpp
+  DecSlice.cpp
+  NALread.cpp
+  SEIread.cpp
+  VLCReader.cpp
+  DecoderLib.vcxproj -> D:\VTM\VTM-1.1\lib\vs14\msvc-19.0\x86_64\release\DecoderLib.lib

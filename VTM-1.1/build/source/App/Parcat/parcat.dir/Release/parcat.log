@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/VTM/VTM-1.1/source/App/Parcat/CMakeLists.txt
+  CMake does not need to re-run because D:/VTM/VTM-1.1/build/source/App/Parcat/CMakeFiles/generate.stamp is up-to-date.
+  parcat.cpp
+  parcat.vcxproj -> D:\VTM\VTM-1.1\bin\vs14\msvc-19.0\x86_64\release\parcat.exe

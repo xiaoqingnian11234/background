@@ -1,0 +1,4 @@
+﻿  Generating svnheader.h
+  -- Found Subversion: C:/Program Files/TortoiseSVN/bin/svn.exe (found version "1.9.4") 
+  Building Custom Rule D:/VTM/VTM-1.1/source/App/DecoderAnalyserApp/CMakeLists.txt
+  CMake does not need to re-run because D:/VTM/VTM-1.1/build/source/App/DecoderAnalyserApp/CMakeFiles/generate.stamp is up-to-date.
